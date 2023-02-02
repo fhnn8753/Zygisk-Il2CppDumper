@@ -1,4 +1,4 @@
-name: Build
+com.tencent.tmgp.cfname: Build
 on:
   workflow_dispatch:
       inputs:
